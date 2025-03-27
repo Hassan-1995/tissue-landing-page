@@ -23,7 +23,7 @@ const HeroSection = () => {
         {/* Text Section */}
         <div className="flex-1 text-center lg:text-left">
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            HygieniX<span className="text-[#d4a76a]">Tissue</span>
+            Hanké<span className="text-[#d4a76a]">Tissue</span>
           </h1>
           <h2 className="text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white mb-6">
             <span className="block">Experience Luxury</span>
